@@ -4,10 +4,14 @@ import {
   Controller,
   Get,
   HttpStatus,
+  Param,
+  ParseIntPipe,
   Post,
   Res,
   UploadedFile,
   UseInterceptors,
+  UsePipes,
+  ValidationPipe,
 } from '@nestjs/common';
 import { FileInterceptor } from '@nestjs/platform-express';
 import {
@@ -20,6 +24,7 @@ import {
 import { WaterBodyService } from './water-body.service';
 import { FailResponseDto } from 'src/shared/dtos/fail-response.dto';
 import { WaterBodyCoordinateDto } from './dto/water-body-coordinate.dto';
+import { WaterBody } from 'src/shared/entities/water-body.entity';
 
 @ApiTags('water-bodies')
 @Controller('water-body')
@@ -48,6 +53,28 @@ export class WaterBodyController {
       return res.status(HttpStatus.INTERNAL_SERVER_ERROR).send({
         success: false,
         message: error.message,
+      });
+    }
+  }
+
+  @ApiOperation({ summary: 'Get water bodu by id' })
+  @ApiResponse({ status: 200, description: 'Supplier found', type: WaterBody })
+  @ApiResponse({
+    status: 404,
+    description: 'Not Found.',
+    type: FailResponseDto,
+  })
+  @UsePipes(ValidationPipe)
+  @Get(':id')
+  async findOne(@Res() res: Response, @Param('id', ParseIntPipe) id: number) {
+    try {
+      return res
+        .status(HttpStatus.OK)
+        .send(await this.waterBodyService.findOne(id));
+    } catch (error) {
+      return res.status(error.getStatus()).send({
+        success: false,
+        message: error.response.message
       });
     }
   }

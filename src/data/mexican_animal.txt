@@ -1,0 +1,617 @@
+The extinction of the Catarina pupfish Megupsilon
+aporus and the implications for the conservation of
+freshwater fish in Mexico
+
+
+Abstract Extinctions are occurring at an unprecedented
+rate as a consequence of human activities. Vertebrates con-
+stitute the best-known group of animals, and thus the group
+for which there are more accurate estimates of extinctions.
+Among them, freshwater fishes are particularly threatened
+and many species are declining. Here we report the extinc-
+tion of an endemic freshwater fish of Mexico, the Catarina
+pupfish Megupsilon aporus, the sole species of the genus
+Megupsilon. We present a synopsis of the discovery and de-
+scription of the species, the threats to, and degradation of, its
+habitat, and the efforts to maintain the species in captivity
+before it became extinct. The loss of the Catarina
+pupfish has evolutionary and ecological implications, and
+highlights the crisis of freshwater fish extinctions. It is a
+warning of the likely fate of more than  freshwater fish
+species threatened with extinction in Mexico. To save these
+species, the country urgently needs a national strategy to ar-
+ticulate a bold conservation effort, with better policies on
+ecosystem management and water use.
+Keywords Catarina pupfish, conservation, Cyprinodontidae,
+extinction, fish, Megupsilon aporus, Mexico
+Introduction
+B iodiversity loss is one of the most severe environmental
+problems, with thousands of species having gone ex-
+tinct since the start of the 20th century and hundreds of
+thousands of populations being lost as a result of human ac-
+tivities. The rate of extinction of vertebrate species in this 
+period has been up to  times faster
+than in the last  million years (Ceballos et al., ).
+Extinctions of birds and mammals have been documented
+more thoroughly than extinctions of fishes and inverte-
+brates, which have often been overlooked (e.g. Dirzo et al.,
+; Régnier et al., ). Since the start of the st century it
+has become clear that population depletion and extinction
+of both freshwater and marine fishes is a severe and wide-
+spread problem (e.g. Ricciardi & Rasmussen, ; Myers
+& Worm, ; Olden et al., ; Burkhead, ).
+Extinction of freshwater fishes has been relatively well
+documented in North America (e.g. Miller et al., ;
+Burkhead, ). A compilation of the conservation status
+of freshwater fishes in Mexico has revealed that  species
+have become extinct in the wild or have been extirpated
+from the country, and .  (% of all species in
+Mexico) are facing extinction (IUCN, ; Ceballos et al.,
+b; Table ).
+While compiling these data we found that the Catarina
+pupfish Megupsilon aporus is the most recently extinct en-
+demic freshwater fish in Mexico. This species, which be-
+longs to the Cyprinodontidae and is one of the smallest
+fishes in North America, was lost as a result of desiccation
+of the only freshwater spring it inhabited, in El Potosi,
+Galeana, Nuevo León (Miller et al., ; Bennett &
+Conway, ). Unfortunately, this is not an isolated case.
+Major threats to freshwater fishes in particular and fresh-
+water biodiversity in general have been grouped into five
+categories: overexploitation of water resources, water pollu-
+tion, flow modification, destruction or degradation of habi-
+tat, and invasive species (Silk & Ciruna, ; Dudgeon
+et al., ). Inland waters in Mexico have experienced
+these threats, and currently % of main rivers are polluted,
+. , dams have modified their flow and .  invasive
+species inhabit inland waters (Carabias & Landa, ;
+Domínguez-Domínguez et al., ; CONAGUA, ).
+The effect of these threats on freshwater fishes depends
+on the particular environmental conditions, the type and
+amount of pressure exerted by human activities, and the
+distribution range of species. For instance, species with re-
+stricted distributions, such as the Cuatro Cienegas platyfish
+Xiphophorus gordoni, which inhabits desert springs, and the
+Yucatan tetra Astyanax altior, endemic to cenotes in the
+Yucatan Peninsula, are more imperilled than those with a
+wide distribution (Jelks et al., ; Contreras-MacBeath
+et al., ). Meanwhile, habitats in northern Mexico with
+major water supply problems as a result of semi-arid and
+arid conditions are at higher risk of desiccation than
+aquatic systems in south-east Mexico (Contreras-Balderas
+& Lozano-Vilano, ; Carabias & Landa, ; Ceballos
+A RCADIO VALDÉS G ONZÁLEZ and MA . ELENA Á NGELES VILLEDA Universidad
+Autónoma de Nuevo León, Nuevo León, Mexico
+LOURDES MARTÍNEZ ESTÉVEZ (Corresponding author) Department of Ecology and
+Evolutionary Biology, University of California, 115 McAllister Way, Santa Cruz,
+California 95060, USA. E-mail mmarti72@ucsc.edu
+G ERARDO C EBALLOS Universidad Nacional Autónoma de México, Mexico City,
+Mexico
+Received  September . Revision requested  November .
+Accepted  April . First published online  December .
+Oryx, 2020, 54(2), 154–160 © 2018 Fauna & Flora International doi:10.1017/S003060531800056X
+https://doi.org/10.1017/S003060531800056X Published online by Cambridge University Press
+et al., a,b). Watershed management in Mexico therefore
+requires addressing local conservation issues with a regional
+perspective, to ensure the maintenance of these habitats and
+their fish populations in the long term (Stiassny & Bianco,
+; Ceballos et al., b).
+The Catarina pupfish (Plate ) was discovered in . It
+was described in  as the only species of the genus
+Megupsilon, and only  years after its scientific discovery
+it became extinct in the wild. We present a historical synop-
+sis of the species and the causes of its decline, and discuss the
+implications of the extinction process for the conservation
+of freshwater fish diversity in Mexico.
+The discovery and description of a new species
+Available information on the biology and ecology of the
+Catarina pupfish is scarce but examination of peer-reviewed
+and grey literature provided us with sufficient details to docu-
+ment the sequence of events and factors that led to the
+species’ decline (Miller & Walters, ; Contreras-Balderas
+& Lozano-Vilano, a,b; Contreras-Balderas et al., ;
+Echelle et al., ; Jelks, et al., ; Bennett & Conway,
+; Burkhead, ; Liu & Echelle, ).
+The first recorded individual of the Catarina pupfish was
+collected from the wild by R.R. Miller and H.L. Huddle in
+, but the species was not described until  (Miller &
+Walters, ). Megupsilon aporus is an endemic Mexican
+species (Miller, ). The generic name and species were
+assigned based on two particular characters: Megupsilon in
+reference to the huge Y chromosome in males, and aporus in
+reference to the lack of pores in the cephalic sensory system
+(Miller & Walters, ). Although the species is related to
+Cyprinodon, the characters that classified it as a separate spe-
+cies, along with those previously mentioned, were a different
+number of chromosomes between males () and females
+(), the presence of side scales between the dorsal and
+anal fins, the lack of a black terminal border in the anal
+fin of nuptial males, the presence of an anal fin as large as
+the dorsal fin in females, and particular behavioural traits
+(see below; Uyeno & Miller, ; Miller & Walters, ).
+The small Catarina pupfish exhibited sexual dimorph-
+ism. Males were smaller ( mm in length) than females
+( mm; Miller & Walters, ). Adult males were steel
+blue on the back and sides of the body, with a golden
+sheen in the caudal peduncle, the caudal fin was orange,
+and a there was a vertical black bar above and below the
+pupil on the eyes. Adult females had a golden olivaceous col-
+ouration over the body (Miller & Walters, ).
+Habitat
+The Catarina pupfish was endemic to a freshwater spring at
+El Potosi, on the west side of Sierra Madre Oriental, and with-
+in the Sandia basin, Galeana, Nuevo León, Mexico (°′N
+°′W; Fig. ). This location, at , m, was also home to
+the Potosi pupfish Cyprinodon alvarezi and the fresh-
+water crayfish Cambarellus alvarezi (Rodríguez-Almaraz &
+Campos, ), both also endemic to this small spring. The
+spring was a remnant of a larger water body in an endorheic
+basin known as La Hediondilla (Miller & Walters, ). It is
+believed that during the Pleistocene the larger lake was con-
+nected with the Rio Conchos basin and Rio Bravo tributaries
+in the north.
+Habitat descriptions by Miller & Walters () men-
+tioned the presence of a main pond (c.  ha) with an inner
+stream and some secondary ponds. Clear water was present
+year-round, with depths of .– m (Miller & Walters,
+). These conditions remained until the early s
+(Plate ; Rodriguez-Almaraz & Campos, ). The vegeta-
+tion in the area included pennywort Hydrocotyle sp.,
+herbaceous flowering plants Nasturtium sp., water
+primrose Lugwigia sp., hornwort Ceratophyllum demersum,
+TABLE 1 Freshwater fish species that are extinct in the wild or
+extirpated in Mexico (Ceballos et al., b).
+Species Distribution Status
+Cyprinodon alvarezi Mexico, endemic Extinct in the wild
+Cyprinodon longidorsalis Mexico, endemic Extinct in the wild
+Cyprinodon veronicae Mexico, endemic Extinct in the wild
+Skiffia francesae Mexico, endemic Extinct in the wild
+Xyrauchen texanus North America Extirpated
+Gila elegans North America Extirpated
+Hybognathus amarus North America Extirpated
+Notropis simus North America Extirpated
+Ptychocheilus lucius North America Extirpated
+Rhinichthys osculus North America Extirpated
+PLATE 1 The Catarina pupfish Megupsilon aporus was a
+freshwater fish endemic to Mexico; it is now extinct: (a) male,
+(b) female. Photograph by Daniel Garza Tobón.
+Extinction of the Catarina pupfish 155
+Oryx, 2020, 54(2), 154–160 © 2018 Fauna & Flora International doi:10.1017/S003060531800056X
+https://doi.org/10.1017/S003060531800056X Published online by Cambridge University Press
+pondweed Potamogeton sp., duckweed Lemna sp., green
+algae, and grasses restricted to shallow areas (Miller &
+Walters, ; Guzmán-Cedillo, ).
+Natural history and ecology
+Megupsilon aporus was considered to be part of a relict fauna
+isolated from the Rio Grande system more than  million
+years ago (Echelle et al., ). It diverged from the common
+Cyprinodon ancestor to constitute a monotypic genus in the
+late Miocene (Echelle et al., ). Following its discovery,
+several expeditions were made to gather information on
+the species and its habitat (Table ). On an expedition in
+ Contreras-Balderas and Lozano-Vilano found that the
+flow in the pond was constant year-round and that aquatic
+vegetation was abundant. They also described the abundance
+of M. aporus; c. , individuals were found in pockets
+of the aquatic vegetation mat, which was mainly composed
+of Ceratophyllum sp. (Contreras-Balderas & Lozano-Vilano,
+a). By , individuals of largemouth bass Micropterus
+salmoides were collected in El Potosi and the abundance of
+Megupsilon was significantly lower. There is no information
+regarding the introduction of this exotic fish but its presence
+was one of the causes of the decline of the Catarina pupfish,
+although not the most pervasive (Contreras-Balderas &
+Lozano-Vilano, a; see below).
+The Catarina pupfish was oviparous, with no breeding
+territoriality. The species presented two characteristic beha-
+viours: opercular rotation and jaw-nudging during court-
+ship (Liu & Echelle, ). Courtship and mating took a
+unique form, with no aggressive behaviour; instead attrac-
+tive movements were performed to bring about successful
+spawning. Mating was usually carried out at dawn or dusk
+and there was no cannibalistic egg consumption nor aggres-
+sion of any kind among males and females (V. González,
+pers. comm.).
+According to Miller & Walters (), M. aporus coex-
+isted with the Potosi pupfish via niche partitioning. The
+Catarina pupfish preferred shallow areas close to the surface,
+whereas the Potosi pupfish occurred predominantly in the
+deep waters of the spring. The two species had different diet-
+ary preferences; the Catarina pupfish was carnivorous, feed-
+ing mainly on insect larvae and chironomids, whereas the
+Potosi pupfish fed mainly on algae.
+Habitat degradation
+The habitat, described by Miller & Walters (), remained
+in good condition for more than  years (Rodríguez-Almaraz
+& Campos, ). During – the area covered by the
+spring contracted and expanded as a result of water extraction
+for agriculture and subsequent recovery during the wet sea-
+son. However, in  the spring was reduced to % of its
+former size as a result of intensified groundwater pumping.
+By  only a shallow irrigation ditch and small tributaries
+F IG. 1 Location of El Potosi spring in Nuevo León, Mexico,
+which is the only known habitat of the Catarina pupfish
+Megupsilon aporus.
+PLATE 2 Habitat degradation and desiccation of the El Potosi
+spring in Nuevo León, Mexico (Fig. ). (a) The spring in 
+(photograph from Miller et al., ), and (b) in 
+(photograph by María Elena Ángeles Villeda).
+156 A. Valdés González et al.
+Oryx, 2020, 54(2), 154–160 © 2018 Fauna & Flora International doi:10.1017/S003060531800056X
+https://doi.org/10.1017/S003060531800056X Published online by Cambridge University Press
+remained (Contreras-Balderas & Lozano-Vilano, a;
+Plate ).
+Overexploitation of water was the main cause of the de-
+cline of M. aporus (Contreras-Balderas & Lozano-Vilano,
+a). By  more than  wells of .  m depth had
+been dug for irrigation of corn and potato fields in El
+Potosi and Sandia Valleys, causing the desiccation of springs
+and creeks in the region. As a result, aquatic species, includ-
+ing the fishes Cyprinodon veronicae, Cyprinodon longidorsa-
+lis, Cyprinodon ceciliae and Cyprinodon inmemoriam
+became locally extinct (Contreras-Balderas, ). The
+Catarina pupfish was considered to be extinct in the wild
+by , and in  El Potosi spring was completely dry
+(Tveteraas, ; Contreras-Balderas & Lozano-Vilano,
+b).
+Given the grave situation, a strategic plan to protect the
+area was presented by the first Mexican fish recovery team,
+which comprised researchers from Universidad Autonoma
+de Nuevo León. However, the proposal was not adopted or
+enforced (Contreras-Balderas, ).
+In the early s natural coal deposits in the area started
+burning as a result of the collapse and subsidence of sedi-
+ments, causing the ground to sink in both the El Potosi
+and La Sandia valleys. Burning episodes have been intermit-
+tent, with wet and dry periods (Valdés González, ;
+Amezcua Torres, ).
+Captivity and extinction
+One of the first attempts to protect the Catarina pupfish was
+made by Salvador Contreras-Balderas, who in  moved nu-
+merous individuals to other springs in the area to reduce the
+pressure exerted by the largemouth bass (Contreras-Balderas
+& Lozano-Vilano, a). One year later, a small population
+of M. aporus was identified in a small spring in the area. In
+ Armando J. Contreras-Balderas and his team eradicated
+the largemouth bass, removing .  individuals from the
+spring (Contreras-Balderas & Lozano-Vilano, a). In the
+following years, the rapid degradation of the habitat as a result
+of water extraction increased the need to maintain the species
+in captivity to avoid extinction. Since  the Catarina pup-
+fish remained in captivity in a management unit specifically
+for the conservation of the species.
+In the early s the New York Aquarium and
+Universidad Autonoma de Nuevo León established a pro-
+gramme (Emerging rescue of Mexican fish species in immi-
+nent danger of extinction) to protect the most representative
+and threatened freshwater fishes of Mexico. The effort was
+also joined by the Children’s Aquarium at Fair Park, Dallas,
+Texas. The aims of the programme were to sustain stocks of
+species over the long term, to maintain sufficient individuals
+to repopulate native habitats, and to exchange specimens to
+ensure the diversity of the genetic pools, all by recruiting
+museums and public aquariums with sufficient space and
+technical and economic resources.
+Individuals of the Catarina pupfish were maintained in
+various places, including San Luis Potosi in Mexico,
+Denver and Arkansas in the USA, Zaragoza in Spain, and
+Germany. However, the species was particularly sensitive
+to environmental conditions and prone to infections. In
+ most individuals of the captive populations succumbed
+to Mycobacteria infections and those that remained were too
+weak or sterile.
+In  the Children’s Aquarium at Fair Park, Dallas,
+Texas, held the last surviving population, with only  indi-
+viduals (Liu & Echelle, ). The last two males were used
+in an attempt to save the species through hybridization and
+TABLE 2 Details of expeditions to the El Potosi spring in Nuevo León, Mexico (Fig. ), the only known habitat of the Catarina pupfish
+Megupsilon aporus (Contreras-Balderas, ; Rodríguez-Almaraz & Campos, ; Contreras-Balderas & Lozano-Vilano, a).
+Date Lead scientists Comments
+Feb. 1961 R.R. Miller & H.L. Huddle Specimen of Megupsilon aporus found
+Feb. 1968 V. Walters & J. Bleck 510 individuals of M. aporus collected
+Mar. 1968 R.R. Miller & H.L. Huddle Holotypes of M. aporus collected
+June 1968 V. Walters & B.J. Turner 151 individuals of M. aporus collected
+1968 S. Contreras-Balderas & M.L. Lozano-Vilano Circa 6,000 individuals of M. aporus reported
+July 1972 V. Walters, R.E. Brown Jr., R. Haas, R.K. Liu &
+S.H. Walters
+High abundance of M. aporus reported
+1974 S. Contreras-Balderas Collection of largemouth bass Micropterus salmoides, reported as
+common species
+1974 S. Contreras-Balderas Translocation of individuals of M. aporus to adjacent springs
+without largemouth bass
+Late 1970s & early
+1980s
+G.A. Rodriguez-Almaraz & E. Campos Contraction of the spring as a result of intensified groundwater
+pumping
+Early 1990s S. Contreras-Balderas Overexploitation of water for crop irrigation
+1994 S. Contreras-Balderas M. aporus considered extinct in the wild
+1995 S. Contreras-Balderas Desiccation of El Potosi spring
+Extinction of the Catarina pupfish 157
+Oryx, 2020, 54(2), 154–160 © 2018 Fauna & Flora International doi:10.1017/S003060531800056X
+https://doi.org/10.1017/S003060531800056X Published online by Cambridge University Press
+backcross with a female of C. alvarezi. The reproduction was
+successful, yielding more than  newborn individuals;
+however, all of them were females with mycobacteriosis,
+and all eventually died.
+Lessons learned
+The extinction of the Catarina pupfish has implications at
+various scales. Megupsilon aporus was a monotypic genus
+that diverged from Cyprinodon c.  million years ago ac-
+cording to molecular analyses (Echelle et al., ). The
+loss of this species precludes any opportunity to study its
+unique evolutionary history and to understand the adaptive
+processes by which it was able to survive as a relic for thou-
+sands of years. Its extinction, as suggested by Burkhead
+() for freshwater fishes in general, is evidence of a
+much larger problem: the current loss of freshwater
+biodiversity.
+Freshwater fishes are being lost at a faster rate than ter-
+restrial species. Jelks et al. () reported  imperilled
+freshwater fishes in North America; of the  species cate-
+gorized as Endangered,  are endemic to Mexico (Jelks et al.
+; Burkhead, ). In the th century Mexico has lost 
+species,  of them endemic (IUCN, ; Ceballos et al.,
+a,b; Table ). The extinction of these species is attribu-
+ted to two main causes: habitat degradation and pollution.
+Habitat degradation by desiccation of water bodies affected
+species that inhabited springs in arid and semi-arid environ-
+ments, which are under water stress as a result of low pre-
+cipitation and a high demand for water for human activities
+(De la Vega, ). Species that were affected by pollution
+lived in environments close to large cities or to industries
+that discharge pollutants to the water without regulation
+or previous treatment (Alcocer, ). The species that
+became extinct were vulnerable, microendemic species
+whose life histories were adapted to isolated environments
+and particular conditions. However, the increasing pressure
+on freshwater resources may cause a generalized extinction
+trend, affecting even widely distributed species.
+Concern for Mexican freshwater fishes has led to an in-
+crease in knowledge about this group and the habitats on
+which they depend. For instance, in  a national-level
+analysis of the gaps in the conservation of aquatic biodiver-
+sity in Mexico was published (Aguilar et al., ). This ef-
+fort, which involved more than  specialists, resulted in
+the identification of priority sites and their representative-
+ness in the national system of protected areas. Although
+the results indicated that only .% of the area covered by
+priority sites is currently protected, it was a first step to in-
+crease action focused on the conservation, management and
+restoration of aquatic systems in Mexico.
+In  Mexico included  freshwater fishes as part of the
+Alliance for Zero Extinction, an international initiative to
+safeguard places with microendemic species (AZE, ).
+Local efforts to protect the species and their habitats have
+increased awareness among the population. For instance,
+the designation of the RAMSAR site Manantiales geoter-
+males de Julimes, in , was supported by the presence of
+the Julimes pupfish Cyprinodon julimes. This killifish was
+described in  and its distribution is limited to El
+Pandeño hot spring in Chihuahua, Mexico (De la
+Maza-Benignos & Vela-Valladares, ). The local commu-
+nity, together with non-profit organizations, researchers and
+the local government have developed a conservation strategy
+for the area, which includes the establishment of a state park
+(Blando-Navarrete et al., ; De la Maza-Benignos, ).
+Research conducted by Mexican academic institutions,
+sometimes in collaboration with international partners,
+TABLE 3 Freshwater fish species endemic to Mexico or Mexico and the USA that are now extinct, with former geographical location, and
+causes of extinction (Burkhead, ; Ceballos et al., b).
+Species Distribution Geographical location Cause of extinction (estimated year)
+Atherinella callida Mexico Rio Tonto drainage, Veracruz Pollution (1957)
+Chirostoma bartoni Mexico Crater lake at Valle de Santiago, Guanajuato Desiccation (2006)
+Chirostoma charari Mexico La Mintzita spring, Morelia Habitat degradation (1957)
+Evarra bustamantei Mexico Xochimilco, Mexico City Habitat degradation; pollution (1983)
+Evarra eigenmanni Mexico Chalco/Xochimilco, Mexico City Habitat degradation; pollution (1983)
+Evarra tlahuacensis Mexico Chalco, Mexico City Habitat degradation; pollution (1983)
+Notropis aulidion Mexico Tunal River, Durango Invasive species (1965)
+Notropis orca North America Rio Grande, USA/Mexico Invasive species (1975)
+Notropis saladonis Mexico Salado River, Nuevo León, Coahuila Unresolved (1992)
+Stypodon signifer Mexico Spring, Parras Coahuila Desiccation (1930)
+Cyprinodon ceciliae Mexico La Presa Spring, Nuevo León Desiccation (1991)
+Cyprinodon inmemoriam Mexico Ojo la Trinidad, Nuevo León Desiccation (1986)
+Cyprinodon latifasciatus Mexico Parras, Coahuila Pollution (1930)
+Megupsilon aporus Mexico Spring, El Potosi, Nuevo León Desiccation/invasive species (2014)
+Characodon garmani Mexico Spring, Parras Coahuila Desiccation/pollution (1900)
+Priapella bonita Mexico El Refugio, Veracruz Pollution (1906)
+158 A. Valdés González et al.
+Oryx, 2020, 54(2), 154–160 © 2018 Fauna & Flora International doi:10.1017/S003060531800056X
+https://doi.org/10.1017/S003060531800056X Published online by Cambridge University Press
+has increased the ex situ conservation efforts for imperilled
+freshwater fishes. Universidad Michoacana de San Nicolas
+de Hidalgo and Universidad Autonoma de Nuevo León
+have led the efforts, with more than  species kept in cap-
+tivity (Lascuráin et al., ). In particular, the golden skiffia
+Skiffia francesae and tequila splitfin Zoogoneticus tequila are
+examples of species that otherwise would be extinct, as they
+no longer exist in the wild (Lascuráin et al., ).
+There is still an urgent need to implement programmes
+focused on the maintenance of freshwater systems. Lack of
+regulation and enforcement are threatening both freshwater
+fishes and water provision. The extinction of the Catarina
+pupfish is a reminder of the vulnerability of aquatic systems.
+There is a need to improve ecosystem management strate-
+gies and the policies related to freshwater resources, and
+the development of a national strategy for the conservation
+of freshwater fishes should be a priority. Such a strategy
+should include reintroduction of species extinct in the
+wild, securing populations of the most threatened species
+both in captivity and in the wild, and reduction of threats.
+This strategy would bring together scientists and practi-
+tioners to identify species and priority sites for conservation,
+design a monitoring system to assess the current state of the
+populations, improve watershed management practices, and
+increase the impact of ex situ and in situ conservation ac-
+tions to maintain species in the long term. A concurrent citi-
+zen science programme in which local communities would
+play a main role in the protection and monitoring of the
+habitats could have a positive impact, with relatively low
+investment costs. There is still time to avert further
+extinctions of fish species in Mexico, but the window of
+opportunity is closing. The next  decades will be critical
+for most species at risk.
+Acknowledgements We thank the Instituto de Ecologia,
+Universidad Nacional Autónoma de México, for support, and
+Rosalba Becerra for preparing the figure.
+Author contributions Conceptualization: GC; compilation of infor-
+mation on the Catarina pupfish: AVG, MEAV, LME; writing: LME, GC.
+Conflicts of interest None.
+Ethical standards This research complied with the Oryx Code of
+Conduct for authors.
+References
+A G U I L A R , V., A L A R C Ó N , J., G O N Z Á L E Z , L., K O L B , M., K O L E F F , P. &
+U R Q U I Z A -H A A S , T. () Vacíos y omisiones en conservación de la
+biodiversidad acuática epicontinental de México ríos, cuerpos de
+agua y humedales. CONABIO, CONANP, Ciudad de México,
+México.
+A L C O C E R , J. () El agua epicontinental de México. Ciencia,
+July–September, –.
+A M E Z C U A T O R R E S , N. () Caracterización de materia orgánica
+sedimentaria lacustre: un ejemplo del paleolago El Potosí, Nuevo
+León, México. Revista Geociencia, , –.
+AZE (A L L I A N C E FO R Z E RO E X T I N C T I O N ) () Http://www.
+zeroextinction.org [accessed  July ].
+B E N N E T T , M.G. & C O N WAY , K.W. () An overview of North
+America’s diminutive freshwater fish fauna. Ichthyological
+Exploration of Freshwaters, , –.
+B L A N D O -N AVA R R E T E , J.L., J I M É N E Z -G O N Z Á L E Z , J., V A L E N C I A -
+C A S T R O , C.M., C A S TA Ñ E D A -G AY T Á N , G. & C A R R I L LO -F LO R E S , R.
+() Estudio técnico justificativo para declarar Parque Estatal El
+Pandeño de los Pando, en el Municipio de Julimes Chihuahua.
+Biodesert A.C., World Wildlife Fund, Universidad Juárez del estado
+de Durango, Universidad Autónoma Chapingo, México.
+B U R K H E A D , N.M. () Extinction rates in North American
+freshwater fishes, –. BioScience, , –.
+C A R A B I A S , J. & L A N D A , R. () Agua, medio ambiente y sociedad.
+Hacia la gestión integral de los recursos hídricos en México. UNAM,
+El Colegio de México, Fundación Gonzalo Río Arronte, Ciudad de
+México, México.
+C E B A L LO S , G., E H R L I C H , P.R., B A R N O S K Y , A.D., G A R C Í A , A.,
+P R I N G L E , R.M. & P A L M E R , T.M. () Accelerated modern
+human-induced species losses: entering the sixth mass extinction.
+Science Advances, , e.
+C E B A L LO S , G., E H R L I C H , P.R. & D I R Z O , R. (a) Biological
+annihilation via the ongoing sixth mass extinction signaled by
+vertebrate population losses and declines. Proceedings of the
+National Academy of Sciences of the United States of America, ,
+E–E.
+C E B A L LO S , G., D Í A Z -P A R D O , E., M A R T Í N E Z -E S T É V E Z , L. & E S P I N O S A
+P É R E Z , H. (b) Peces dulceacuícolas de México en peligro de
+extinción. Fondo de Cultura Económica, Ciudad de México, México.
+CONAGUA (C O M I S Í O N N AC I O N A L D E L A G U A ) () Informe
+Estadísticas del agua en México. Http://www.conagua.gob.mx/
+CONAGUA/Publicaciones/Publicaciones/SGP---EAM.
+pdf [accesed  March ].
+C O N T R E R A S -B A L D E R A S , S. () Conservation of Mexican fresh water
+fishes: some protected sites and species, and recent federal
+legislation. In Battle Against Extinction. Native Fish Management in
+the American West (eds W.L. Minckley & J.E. Deacon), pp. –.
+The University of Arizona Press, Arizona, USA.
+C O N T R E R A S -B A L D E R A S , S. & L O Z A N O -V I L A N O , M.L. () Water,
+endangered fishes, and development perspectives in north-eastern
+Mexico. Conservation Biology, , –.
+C O N T R E R A S -B A L D E R A S , S. & L O Z A N O -V I L A N O , M.L. (a) Survival
+status of the Sandia and Potosi Valleys endemic pupfishes and
+crayfishes from the Mexican plateau in Nuevo León, Mexico, with
+comments on extinct snails. Proceedings of the Desert Fishes Council,
+Volume XXVII,  Annual Symposium, .
+C O N T R E R A S -B A L D E R A S , S. & L O Z A N O -V I L A N O , M.L. (b)
+Extinction of most Sandia and Potosí valleys (Nuevo León, México)
+endemic pupfishes, crayfishes and snails. Ichthyological Exploration
+of Freshwaters, , –.
+C O N T R E R A S -B A L D E R A S , S., A L M A D A -V I L L E L A , P., L O Z A N O -V I L A N O ,
+M.L. & G A R C Í A -R A M Í R E Z , M.E. () Freshwater fish at risk or
+extinct in México. A checklist and review. Reviews in Fish Biology
+and Fisheries, , –.
+C O N T R E R A S -M AC B E AT H , T., B R I TO R O D R Í G U E Z , M., S O R A N I , V.,
+G O L D S P I N K , C. & M C G R E G O R R E I D , G. () Richness and
+endemism of the freshwater fishes of Mexico. Journal of Threatened
+Taxa, , –.
+D E L A M A Z A -B E N I G N O S , M. (ed.) () Los Peces del Río Conchos.
+Alianza WWF – FGRA y Gobierno del Estado de Chihuahua,
+Chihuahua, México.
+Extinction of the Catarina pupfish 159
+Oryx, 2020, 54(2), 154–160 © 2018 Fauna & Flora International doi:10.1017/S003060531800056X
+https://doi.org/10.1017/S003060531800056X Published online by Cambridge University Press
+D E L A M A Z A -B E N I G N O S , M. & V E L A -V A L L A D A R E S , L. ()
+Cyprinodon julimes sp. nov. In Los Peces del Río Conchos (ed. M. De
+la Maza-Benignos), pp. –. Alianza WWF-FGRA y
+Gobierno del Estado de Chihuahua, Chihuahua, Mexico.
+D E L A V E G A , M.Y. () Situación de los peces dulceacuícolas de
+México. Ciencias, , –.
+D I R Z O , R., Y O U N G , H.S., G A L E T T I , M., C E B A L LO S , G., I S A AC , N.J. &
+C O L L E N , B. () Defaunation in the Anthropocene. Science, ,
+–.
+D O M Í N G U E Z -D O M Í N G U E Z , O., B O TO , L., A L D A , F., P É R E Z -P O N C E D E
+L E Ó N , G. & D O A D R I O , I. () Human impacts on drainages of the
+Mesa Central, Mexico, and its genetic effects on an endangered fish,
+Zoogoneticus quitzeoensis. Conservation Biology, , –.
+D U D G E O N , D., A R T H I N G TO N , A.H., G E S S N E R , M.O., K AWA B ATA ,
+Z.-I., K N O W L E R , D.J., L É V Ê Q U E , C. et al. () Freshwater
+biodiversity: importance, threats, status and conservation
+challenges. Biological Reviews, , –.
+E C H E L L E , A.A., C A R S O N , E.W., E C H E L L E , A.F., V A N D E N B U S S C H E ,
+R.A., D O W L I N G , T.E. & M E Y E R , A. () Historical biogeography
+of the New-World pupfish genus Cyprinodon (Teleostei:
+Cyprinodontidae). Copeia, , –.
+G U Z M Á N -C E D I L LO , L.M.P. () Aspectos biológicos de dos peces
+Cyprinodontidos y un crustáceo Cambaridae de Potosí, N.L. BSc
+thesis. Universidad Autónoma de Nuevo León (Facultad de Ciencias
+Biológicas), Nuevo León, México.
+IUCN () IUCN Red List Categories and Criteria (Version .).
+Http://www.iucnredlist.org/ [accessed  March ].
+J E L K S , H., W A L S H , S.J., B U R K H E A D , N.M., C O N T R E R A S -B A L D E R A S , S.,
+D Í A Z -P A R D O , E., H E N D R I C K S O N , D.A. et al. () Conservation
+status of imperiled North American freshwater and diadromous
+fishes. Fisheries, , –.
+L A S C U R Á I N , M., L I S T , R., B A R R A Z A , L., D Í A Z P A R D O , E., G U A L S I L L ,
+F., M A U N D E R , M. et al. () Conservación de especies ex situ. In
+Capital natural de México, vol. II: Estado de conservación y
+tendencias de cambio, pp. –. CONABIO, Ciudad de México,
+Mexico.
+L I U , R.K. & E C H E L L E , A.A. () Behavior of the Catarina pupfish
+(Cyprinodontidae: Megupsilon aporus), a severely imperiled species.
+The Southwestern Naturalist, , –.
+M I L L E R , R.R. () A new genus and species of cyprinodontid fish
+from San Luis Potosi, Mexico, with remarks on the subfamily
+Cyprinodontinae. Occasional Papers of the Museum of Zoology,
+University of Michigan, , –.
+M I L L E R , R.R. & W A LT E R S , N. () A new genus of cyprinodontid
+fish from Nuevo León, Mexico. Contributions in Science of the
+Natural History Museum of Los Angeles County, , –.
+M I L L E R , R.R., W I L L I A M S , J.D. & W I L L I A M S , J.E. () Extinctions
+of North American fishes during the past century. Fisheries, , –.
+M I L L E R , R.R., M I N C K L E Y , W.L. & N O R R I S , S.M. () Freshwater
+Fishes of Mexico. The University of Chicago Press, Chicago, USA.
+M Y E R S , R.A. & W O R M , B. () Extinction, survival or recovery of
+large predatory fishes. Philosophical Transactions of the Royal
+Society of London B: Biological Sciences, , –.
+O L D E N , J.D., H O G A N , Z.S. & Z A N D E N , M. () Small fish, big fish,
+red fish, blue fish: size‐biased extinction risk of the world’s
+freshwater and marine fishes. Global Ecology and Biogeography, ,
+–.
+R É G N I E R , C., A C H A Z , G., L A M B E R T , A., C O W I E , R., B O U C H E T , P. &
+F O N TA I N E , B. () Mass extinction in poorly known taxa.
+Proceedings of the National Academy of Sciences of the United States
+of America, , –.
+R I C C I A R D I , A. & R A S M U S S E N , J.B. () Extinction rates of North
+American freshwater fauna. Conservation Biology, , –.
+R O D R Í G U E Z -A L M A R A Z , G.A. & C A M P O S , E. () Distribution and
+status of the crayfishes (Cambaridae) of Nuevo León, Mexico.
+Journal of Crustacean Biology, , –.
+S I L K , N. & C I R U N A , K. (eds) () A Practitioner’s Guide to
+Freshwater Biodiversity Conservation. Island Press, Washington,
+DC, USA.
+S T I A S S N Y , M. & B I A N C O , P.G. () The medium is the message.
+Biodiversity freshwater diversity in peril. In The Living Planet in
+Crisis: Biodiversity Science and Policy (eds J. Cracaft & F. Grifo),
+pp. –. Columbia University Press, New York, USA.
+T V E T E R A A S , A. () Mexikanische Killifische am Rande der
+Ausrottung. Datz Aquarien Terrarien, , –.
+U Y E N O , T. & M I L L E R , R.R. () Multiple sex chromosomes in a
+Mexican cyprinodontid fish. Nature, , –.
+V A L D É S G O N Z Á L E Z , A. () Influencia de la calidad del hábitat y el
+alimento sobre la viabilidad y aptitud ecológica de dos especies del
+género Cyprinodon, C. veronicae y C. longidorsalis (Lozano y
+Contreras ) del sur de Nuevo León, México. PhD thesis.
+Universidad Autónoma de Nuevo León, Nuevo León, Mexico
