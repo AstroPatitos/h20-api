@@ -1,0 +1,28 @@
+# DOCKER COMPOSE FILE FOR DEVELOPMENT ONLY
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ..:/workspaces/h2o-backend:cached
+    environment:
+      NODE_ENV: DEVELOPMENT
+    command: sleep infinity
+    network_mode: service:postgres
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:13.11
+    volumes:
+      - ../../postgres-data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=h20_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=Passw0rd
+      - TZ=America/La_Paz
+      - PGTZ=America/La_Paz
+    restart: unless-stopped
